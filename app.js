@@ -1,0 +1,1 @@
+// Not used. Kept empty intentionally to adhere to single-file app requirement with inline JS.
