@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+bower_components/
+
+# Build outputs
+.dist/
+dist/
+build/
+out/
+.tmp/
+tmp/
+.temp/
+.cache/
+.parcel-cache/
+.next/
+.vercel/
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swx
+
+# OS / system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archives and packages
+*.zip
+*.tar
+*.tgz
+*.gz
+*.rar
+
+# Misc
+*.pid
+*.seed
+*.orig
